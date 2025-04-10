@@ -4,19 +4,19 @@
 
 The Full Stack AI Career Coach is a comprehensive project designed to showcase advanced skills in full-stack development. It combines cutting-edge technologies such as React 19, Next.js 15, Tailwind CSS, Prisma, NeonDB, Clerk Authentication, Inngest, Gemini AI API, and Shadcn UI. The application serves as a career coaching platform powered by AI, offering features like:
 
-    User Authentication: Secure login and signup functionality using Clerk.
+    1. User Authentication: Secure login and signup functionality using Clerk.
 
-    AI-Powered Insights: Integration with Gemini AI API to generate industry insights and mock interview questions.
+    2. AI-Powered Insights: Integration with Gemini AI API to generate industry insights and mock interview questions.
 
-    Resume Builder: Users can create markdown-based resumes and download them as PDFs.
+    3. Resume Builder: Users can create markdown-based resumes and download them as PDFs.
 
-    Cover Letter Generator: Automated generation of cover letters tailored to user profiles.
+    4. Cover Letter Generator: Automated generation of cover letters tailored to user profiles.
 
-    Interview Preparation Tools: Mock interview questions and performance statistics.
+    5. Interview Preparation Tools: Mock interview questions and performance statistics.
 
-    Weekly Insights Cron Jobs: Using Inngest functions for scheduled updates.
+    6.  Weekly Insights Cron Jobs: Using Inngest functions for scheduled updates.
 
-    Database Management: Utilizing NeonDB with Prisma for efficient data storage and retrieval.
+    7. Database Management: Utilizing NeonDB with Prisma for efficient data storage and retrieval.
 
 This project is ideal for enhancing resumes and impressing recruiters by showcasing proficiency in modern web development technologies
 
