@@ -1,9 +1,9 @@
 # 🚀 AI Career Coach: Full Stack Mastery Project 🔥
 
-![Project Banner](./public/banner.png) *<!-- Add real screenshot -->*
+![Project Banner](./public/banner.jpeg) *<!-- Add real screenshot -->*
 
 **Next.js 15 + Gemini AI + Serverless PostgreSQL + Modern Auth = Ultimate Career Toolkit**  
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Online-green?style=for-the-badge)](https://career-coach.demo.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Online-green?style=for-the-badge)](https://trio-sensai.vercel.app/)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
 A production-ready AI career platform featuring resume building, interview simulations, and personalized career roadmaps. Masterpiece showcasing:
@@ -40,5 +40,5 @@ graph TD
   A[Next.js 15] --> B[React 19]
   A --> C[Shadcn UI]
   A --> D[Tailwind CSS]
-  A --> E[Zod Validation]
+  A --> E[Clerk Validation]
   A --> F[React Hook Form]
