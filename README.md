@@ -1,4 +1,4 @@
-# 🚀 AI Career Coach: Full Stack Mastery Project 🔥
+# 🚀 SensAI: Full Stack Mastery Project 🔥
 
 ![Project Banner](./public/banner.jpeg) *<!-- Add real screenshot -->*
 
