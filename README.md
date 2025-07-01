@@ -1,4 +1,4 @@
-# 🚀 SensAI: Full Stack Mastery Project 🔥
+# 🚀 HIRESENSE – AI ASSISTANT 🔥
 
 ![Project Banner](./public/banner.jpeg) *<!-- Add real screenshot -->*
 
@@ -12,7 +12,7 @@ A production-ready AI career platform featuring resume building, interview simul
 - 🔐 **Secure Auth** with Clerk
 - 🚀 **Blazing Performance** with Next.js 15
 - 💾 **Serverless DB** via Neon PostgreSQL
-- 🎨 **Beautiful UI** with Shadcn + Tailwind
+- 🎨 **Beautiful UI** with UI Components + Tailwind
 
 ## 🌟 Key Features
 
@@ -38,7 +38,7 @@ A production-ready AI career platform featuring resume building, interview simul
 ```mermaid
 graph TD
   A[Next.js 15] --> B[React 19]
-  A --> C[Shadcn UI]
+  A --> C[UI Components]
   A --> D[Tailwind CSS]
   A --> E[Clerk Validation]
   A --> F[React Hook Form]
